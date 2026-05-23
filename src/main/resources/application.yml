@@ -4,8 +4,8 @@ spring:
 
   datasource:
     url: jdbc:mysql://localhost:3306/springai-chatbot?useSSL=false&serverTimezone=UTC
-    username: root
-    password: root
+    username: 
+    password: 
 
   jpa:
     hibernate:
